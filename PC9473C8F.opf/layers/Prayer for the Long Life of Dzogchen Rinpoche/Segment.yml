@@ -1,0 +1,24 @@
+id: afbadd78f25042acac304775527863de
+annotation_type: Segment
+revision: '00001'
+annotations:
+  f75c6bcd9981449c9890df3fdad11827:
+    span:
+      start: 0
+      end: 84
+    metadata: {}
+  b1fab26408b14f27ac5d415822f5ab20:
+    span:
+      start: 86
+      end: 1005
+    metadata: {}
+  ddf8392cfb054dbd944828ec90e71061:
+    span:
+      start: 1007
+      end: 1094
+    metadata: {}
+  e8e2365aa4ab4e0a8fa18d1659655cc8:
+    span:
+      start: 1096
+      end: 1146
+    metadata: {}
